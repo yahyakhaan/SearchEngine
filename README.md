@@ -3,6 +3,7 @@ A search engine that uses different data structures to scan files and rank the f
 
 The same search engine has been implemented using three different data structures: Linked Lists, AVL Trees, and HashMaps
 
+
 **Instructions**
 
 For each project, copy all the files from the “Docs” folder and place them in the same directory as the .sln file. You can add additional files to enhance the search database.
