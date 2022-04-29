@@ -1,0 +1,1 @@
+stack linear data structure follow particular order operation perform order lifo filo fundamental operation stack push equivalent insert pop delete recent insert element
